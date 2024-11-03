@@ -3,10 +3,15 @@
 
 <h4 align="center">I am a graduate student at McMaster University with keen interest in utilizing HPC and Machine Learning for developing Digital Twins of complex physical systems.</h3>
 <h4 align="left"> 
-- 🔭 I’m currently working on Dynamical systems modelling of fluid systems
-- 🌱 I’m currently learning:
-  - Probabilistic Machine Learning
-  - HPC for CFD and ML
+  <ul>
+  <li>🔭 I’m currently working on Dynamical systems modelling of fluid systems</li>
+  <li>🌱 I’m currently learning:</li>
+    <ul>
+      <li>Probabilistic Machine Learning<\li>
+      <li>HPC for CFD and ML<\li>
+  </ul>
+  </ul>
+
 </h4>
 
 <h3 align="left">Skills and Tools:</h3>
