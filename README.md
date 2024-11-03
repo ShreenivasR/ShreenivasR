@@ -1,26 +1,27 @@
 <h1 align="center">Hey 👋, I'm Shreenivas!</h1>
 <h3 align="center">I solve problems for others and create them for myself 🫠</h3>
 
-<h4 align="center">I am a graduate student at McMaster University with keen interest in utilizing HPC and Machine Learning for developing Digital Twins of complex physical systems.</h3>
-<h4 align="left"> 
+<p align="center">I am a graduate student at McMaster University with keen interest in utilizing HPC and Machine Learning for developing Digital Twins of complex physical systems.</p>
+<p align="left"> 
   <ul>
-  <li>🔭 I’m currently working on Dynamical systems modelling of fluid systems</li>
-  <li>🌱 I’m currently learning:</li>
+  <li>🔭 I’m currently working on: Dynamical systems modelling of fluid systems
+  <li>🌱 I’m currently learning:
     <ul>
-      <li>Probabilistic Machine Learning<\li>
-      <li>HPC for CFD and ML<\li>
+      <li>Probabilistic Machine Learning
+      <li>HPC for CFD and ML
   </ul>
   </ul>
 
-</h4>
+</p>
 
-<h3 align="left">Skills and Tools:</h3>
-<h4 align="left"> 
-- C/C++
-  MATLAB
-  Python
-  CUDA
-</h4>
+<h4 align="left">Skills and Tools:</h3>
+<ul> 
+  <li>C/C++</li>
+  <li>MATLAB</li>
+  <li>Python</li>
+  <li>OpenFOAM</li>
+  <li>CUDA</li>
+</ul>
 
 <!--
 **ShreenivasR/ShreenivasR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
