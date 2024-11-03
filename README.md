@@ -8,10 +8,10 @@
     <li>Dynamical systems modelling of fluid systems</li>
   </ul>
 🌱 I’m currently learning:
-<ul>
-  <li>Probabilistic Machine Learning</li>
-  <li>HPC for CFD and ML</li>
-</ul>
+  <ul>
+    <li>Probabilistic Machine Learning</li>
+    <li>HPC for CFD and ML</li>
+  </ul>
 </p>
 
 <h4 align="left">Skills and Tools:</h3>
